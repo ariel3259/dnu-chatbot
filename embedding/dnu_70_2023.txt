@@ -273,7 +273,7 @@ EN ACUERDO GENERAL DE MINISTROS
 
 DECRETA:
 
-Título I – BASES PARA LA RECONSTRUCCIÓN DE LA ECONOMÍA ARGENTINA
+Título I -BASES PARA LA RECONSTRUCCIÓN DE LA ECONOMÍA ARGENTINA
 
 ARTÍCULO 1°.- EMERGENCIA. Declárase la emergencia pública en materia económica, financiera, fiscal, administrativa, previsional, tarifaria, sanitaria y social hasta el 31 de diciembre de 2025.
 
@@ -289,7 +289,7 @@ Con ese fin y de conformidad con la política de desregulación promovida en el 
 
 Se invita a las autoridades de las provincias y de la Ciudad Autónoma de Buenos Aires a dictar, en el ámbito de sus respectivas competencias, las normas necesarias o convenientes para el cumplimiento de esos fines.
 
-Título II – DESREGULACIÓN ECONÓMICA
+Título II -DESREGULACIÓN ECONÓMICA
 
 ARTÍCULO 4°.- Derógase la Ley N° 18.425.
 
@@ -309,11 +309,11 @@ ARTÍCULO 11.- Derógase la Ley N° 26.736.
 
 ARTÍCULO 12.- Derógase la Ley N° 20.657.
 
-Capítulo I – Banco de la Nación Argentina (Ley N° 21.799)
+Capítulo I -Banco de la Nación Argentina (Ley N° 21.799)
 
 ARTÍCULO 13.- Derógase el artículo 2° de la Ley N° 21.799.
 
-Capítulo II – Tarjetas de crédito (Ley N° 25.065)
+Capítulo II -Tarjetas de crédito (Ley N° 25.065)
 
 ARTÍCULO 14.- Deróganse los artículos 5°, 7°, 8°, 9°, 17, 32, 35, 53 y 54 de la Ley N° 25.065.
 
@@ -341,7 +341,7 @@ ARTÍCULO 19.- Sustitúyense el título del Capítulo VI y el artículo 15 de la
 
 “CAPÍTULO VI
 
-De las Tasas – Información
+De las Tasas -Información
 
 ARTÍCULO 15.- La entidad emisora deberá obligatoriamente dar a conocer el público la tasa de financiación aplicada al sistema de Tarjeta de Crédito.”
 
@@ -453,7 +453,7 @@ ARTÍCULO 35.- Sustitúyese el artículo 32 de la Ley N° 9.643 por el siguiente
 
 Formarán, además, parte integrante de aquellos, los análisis correspondientes al producto sobre que se emiten. A la referida repartición competirán los actos que deben realizar las empresas de depósito, de acuerdo con los artículos 7°, inciso 3, 8°, 17 y 19.”
 
-Título III – REFORMA DEL ESTADO
+Título III -REFORMA DEL ESTADO
 
 ARTÍCULO 36.- Derógase el Decreto - Ley N° 15.349/46.
 
@@ -465,7 +465,7 @@ ARTÍCULO 39.- Derógase la Ley N° 14.499.
 
 ARTÍCULO 40.- Derógase la Ley N° 20.705.
 
-Capítulo I – Reforma del Estado (Ley N° 23.696)
+Capítulo I -Reforma del Estado (Ley N° 23.696)
 
 ARTÍCULO 41.- Derógase el tercer párrafo del artículo 9° de la Ley N° 23.696.
 
@@ -507,7 +507,7 @@ ARTÍCULO 51.- Se establece un período máximo de transición de 180 días a pa
 
 ARTÍCULO 52.- La Ley N° 24.156 y demás normativa de control del sector público solo será aplicable cuando, en las Sociedades Anónimas producto de la transformación determinada en el presente, el Estado posea participación accionaria mayoritaria.
 
-Título IV – TRABAJO
+Título IV -TRABAJO
 
 ARTÍCULO 53.- Deróganse los artículos 8° a 17 y 120, inciso a), de la Ley N° 24.013.
 
@@ -555,7 +555,7 @@ ARTÍCULO 64.- Incorpórase como inciso i) al artículo 114 de la Ley N° 24.013
 
 “i) Extinción por mutuo acuerdo de las partes en los términos del artículo 241 de la Ley N° 20.744”.
 
-Capítulo II – Ley de contrato de trabajo – Ley N° 20.744 (t.o. 1976)
+Capítulo II -Ley de contrato de trabajo -Ley N° 20.744 (t.o. 1976)
 
 ARTÍCULO 65.- Sustitúyese el artículo 2° de la Ley N° 20.744 (t.o. 1976) y sus modificatorias por el siguiente:
 
@@ -765,7 +765,7 @@ Todo pago realizado sin observar lo prescripto, así como el pacto de cuota liti
 
 La responsabilidad por el pago de las costas procesales, incluidos los honorarios profesionales de todo tipo allí devengados y correspondientes a la primera o única instancia, no excederán del veinticinco por ciento (25 %) del monto de la sentencia, laudo, transacción o instrumento que ponga fin al diferendo. Si las regulaciones de honorarios practicadas conforme a las leyes arancelarias o usos locales, correspondientes a todas las profesiones y especialidades superaran dicho porcentaje, el juez procederá a prorratear los montos entre los beneficiarios. Para el cómputo del porcentaje indicado no se tendrá en cuenta el monto de los honorarios profesionales que hubieren representado, patrocinado o asistido a la parte condenada en costas.”
 
-Capítulo III – Convenciones Colectivas de Trabajo (Ley N° 14.250)
+Capítulo III -Convenciones Colectivas de Trabajo (Ley N° 14.250)
 
 ARTÍCULO 86.- Sustitúyese el artículo 6° de la Ley N° 14.250, por el siguiente:
 
@@ -841,7 +841,7 @@ ARTÍCULO 96.- El trabajador independiente podrá contar con hasta otros CINCO (
 
 El mismo estará basado en la relación autónoma, sin que exista vinculo de dependencia entre ellos, ni con las personas contratantes de los servicios u obras, e incluirá, tanto para el trabajador independiente como para los trabajadores colaboradores, el aporte individual de una cuota mensual que comprenda la cotización al Régimen Previsional, al Régimen Nacional de Obras Sociales y Sistema Nacional del Seguro de Salud y al Régimen de Riesgos del Trabajo, en las condiciones y requisitos que establezca la reglamentación.
 
-Capítulo IX – Servicios esenciales (Ley N° 25.877)
+Capítulo IX -Servicios esenciales (Ley N° 25.877)
 
 ARTÍCULO 97.- Sustitúyese el artículo 24 de la Ley N° 25.877, por el siguiente:
 
@@ -895,7 +895,7 @@ d) la interrupción o suspensión de la producción pudiere poner en peligro el 
 
 El Poder Ejecutivo Nacional dictará la reglamentación correspondiente y la Autoridad de Aplicación las normas complementarias, aclaratorias y operativas que resulten necesarias.”
 
-Título V – COMERCIO EXTERIOR
+Título V -COMERCIO EXTERIOR
 
 ARTÍCULO 98.- Derógase la Ley N° 25.626.
 
@@ -1279,7 +1279,7 @@ n) el dictado de la resolución condenatoria en sede aduanera.”
 
 ARTÍCULO 153.- El Poder Ejecutivo Nacional debe procurar la adhesión a convenios internacionales existentes que signifiquen para el sector aduanero una innovación y desburocratización de procedimientos administrativos y de control, con el objetivo de reducir costos y fomentar la inclusión Argentina en el mercado internacional.
 
-Título VI – BIOECONOMÍA
+Título VI -BIOECONOMÍA
 
 ARTÍCULO 154.- Derógase la Ley N° 26.737.
 
@@ -1301,7 +1301,7 @@ ARTÍCULO 162.- Derógase la Ley N° 18.859.
 
 ARTÍCULO 163.- Derógase la Ley N° 19.990.
 
-Capítulo I – Instituto Nacional de la Yerba Mate (Ley N° 25.564)
+Capítulo I -Instituto Nacional de la Yerba Mate (Ley N° 25.564)
 
 ARTÍCULO 164.- Sustitúyese el artículo 3° de la Ley N° 25.564, por el siguiente:
 
@@ -1319,13 +1319,13 @@ ARTÍCULO 167.- Sustitúyese el quinto párrafo del artículo 21 de la Ley N° 2
 
 ARTÍCULO 168.- Deróganse los artículos 22 y 24 de la Ley N° 25.564.
 
-Título VII – MINERÍA
+Título VII -MINERÍA
 
 ARTÍCULO 169.- Derógase la Ley N° 24.523.
 
 ARTÍCULO 170.- Derógase la Ley N° 24.695.
 
-Título VIII – ENERGÍA
+Título VIII -ENERGÍA
 
 ARTÍCULO 171.- Derógase el Decreto N° 1060/00.
 
@@ -1671,7 +1671,7 @@ Corresponde igualmente la jurisdicción de los tribunales argentinos y la aplica
 
 ARTÍCULO 238.- Sustitúyese el artículo 200 de la Ley Nº 17.285 y sus modificatorias por el siguiente:
 
-“ARTÍCULO 200.– En los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave privada extranjera en vuelo en el espacio aéreo argentino , la jurisdicción de los tribunales argentinos y la aplicación de las leyes de la Nación sólo corresponde en caso de:
+“ARTÍCULO 200.-En los hechos ocurridos, los actos realizados y los delitos cometidos en una aeronave privada extranjera en vuelo en el espacio aéreo argentino , la jurisdicción de los tribunales argentinos y la aplicación de las leyes de la Nación sólo corresponde en caso de:
 
 1) Que infrinjan leyes de seguridad pública, militares o fiscales.
 
@@ -1733,7 +1733,7 @@ ARTÍCULO 245.- Sustitúyese el artículo 231 de la Ley Nº 17.285 y sus modific
 
 “ARTÍCULO 231.- En la circulación aérea dentro del espacio aéreo argentino, serán de uso y aplicación las unidades de medidas adoptadas conforme a las disposiciones de los convenios internacionales de los que la Nación sea parte.”
 
-Capítulo II – Rescate de Aerolíneas Argentinas y Austral Líneas Aéreas por el Estado Nacional (Ley N° 26.412)
+Capítulo II -Rescate de Aerolíneas Argentinas y Austral Líneas Aéreas por el Estado Nacional (Ley N° 26.412)
 
 ARTÍCULO 246.- Sustitúyese el artículo 4° de la Ley N° 26.412 y sus normas modificatorias y complementarias.
 
@@ -1741,13 +1741,13 @@ ARTÍCULO 246.- Sustitúyese el artículo 4° de la Ley N° 26.412 y sus normas 
 
 ARTÍCULO 247.- Derógase el artículo 9° de la Ley N° 26.412.
 
-Capítulo III – Utilidad Pública de Aerolíneas Argentinas (Ley N° 26.466)
+Capítulo III -Utilidad Pública de Aerolíneas Argentinas (Ley N° 26.466)
 
 ARTÍCULO 248.- Sustitúyese el artículo 5° de la Ley N° 26.466, por el siguiente:
 
 “ARTÍCULO 5º.- Autorízase la cesión total o parcial de las acciones representativas del capital social a los trabajadores de las empresas Aerolíneas Argentinas Sociedad Anónima y Austral Líneas Aéreas - Cielos del Sur Sociedad Anónima y de sus empresas controladas (Optar S.A., Jet Paq S.A., Aerohandling S.A.) de conformidad con el Programa de Propiedad Participada. La cesión de los nuevos derechos se prorrateará entre los empleados que decidan participar en dicho programa de ampliación. Los empleados que participen de más de una de estas empresas deberán optar por su participación en una de ellas.”
 
-TÍTULO X- JUSTICIA
+TÍTULO X - JUSTICIA
 
 ARTÍCULO 249.- Derógase la Ley N° 27.551.
 
@@ -1815,13 +1815,13 @@ ARTÍCULO 262.- Sustitúyese el artículo 1221 del Código Civil y Comercial de 
 
 ARTÍCULO 263.- Derógase el artículo 1221 bis del Código Civil y Comercial de la Nación aprobado por la Ley N° 26.994 y sus modificatorias.
 
-Título XI – SALUD
+Título XI -SALUD
 
 ARTÍCULO 264.- Derógase la Ley N° 27.113.
 
 ARTÍCULO 265.- Derógase el Decreto N° 743/22.
 
-Capítulo I – Utilización de medicamentos por su nombre genérico (Ley N° 25.649)
+Capítulo I -Utilización de medicamentos por su nombre genérico (Ley N° 25.649)
 
 ARTÍCULO 266.- Sustitúyese el artículo 2° de la Ley N° 25.649 por el siguiente:
 
@@ -1829,7 +1829,7 @@ ARTÍCULO 266.- Sustitúyese el artículo 2° de la Ley N° 25.649 por el siguie
 
 El farmacéutico, debidamente autorizado por la autoridad competente, es el único responsable y capacitado para la debida dispensa de especialidades farmacéuticas que requieran recetas en cualquiera de sus modalidades.”
 
-Capítulo II – Marco regulatorio de la Medicina Prepaga (Ley N° 26.682)
+Capítulo II -Marco regulatorio de la Medicina Prepaga (Ley N° 26.682)
 
 ARTÍCULO 267.- Deróganse los artículos 5°, incisos g) y m), 6°, 18, 19, 25 inciso a) y 27 de la Ley N° 26.682.
 
@@ -1841,7 +1841,7 @@ ARTÍCULO 269.- Sustitúyese el artículo 17 de la Ley N° 26.682, por el siguie
 
 “ARTÍCULO 17.- Cuotas de Planes. Los sujetos comprendidos en el artículo 1º de la presente ley pueden establecer precios diferenciales para los planes prestacionales, al momento de su contratación, según franjas etarias con una variación máxima de TRES (3) veces entre el precio de la primera y la última franja etaria.”
 
-Capítulo III – Obras sociales (Ley N° 23.660)
+Capítulo III -Obras sociales (Ley N° 23.660)
 
 ARTÍCULO 270.- Incorpórase como inciso i) del artículo 1° a la Ley N° 23.660, el siguiente:
 
@@ -1983,7 +1983,7 @@ ARTÍCULO 293.- Sustitúyese el último párrafo del artículo 40 de la Ley N° 
 
 ARTÍCULO 294.- Derógase el artículo 42 de la Ley N° 23.660.
 
-Capítulo IV – Sistema Nacional del Seguro de Salud (Ley N° 23.661)
+Capítulo IV -Sistema Nacional del Seguro de Salud (Ley N° 23.661)
 
 ARTÍCULO 295.- Sustitúyese el último párrafo del artículo 2° de la Ley N° 23.661 por el siguiente:
 
@@ -2013,7 +2013,7 @@ ARTÍCULO 301.- Sustitúyase el inciso a) del artículo 22 de la Ley N° 23.661 
 
 “a) los previstos en la Ley N° 23.660 y sus modificaciones.”
 
-Capítulo V – Régimen de Trazabilidad y Verificación de Aptitud Técnica de los Productos Médicos Activos de Salud en Uso. (Ley N° 26.906)
+Capítulo V -Régimen de Trazabilidad y Verificación de Aptitud Técnica de los Productos Médicos Activos de Salud en Uso. (Ley N° 26.906)
 
 ARTÍCULO 302.- Deróganse los artículos 6°, 7°, 8° y 11 de la Ley N° 26.906.
 
@@ -2049,7 +2049,7 @@ e) Coordinar con las autoridades sanitarias jurisdiccionales, las verificaciones
 
 f) Promover la creación de un Registro Nacional de Productos Médicos Activos, en coordinación con las autoridades jurisdiccionales y según los criterios establecidos por la Disposición N° 2318/02, texto ordenado según Disposición N° 1285/04, de la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica, ANMAT, o la que en el futuro se dicte.”
 
-Capítulo VI – Recetas electrónicas o digitales (Ley N° 27.553)
+Capítulo VI -Recetas electrónicas o digitales (Ley N° 27.553)
 
 ARTÍCULO 307.- Sustitúyese el artículo 1° de la Ley N° 27.553 por el siguiente:
 
@@ -2071,7 +2071,7 @@ ARTÍCULO 309.- Sustitúyese el artículo 13 de la Ley N° 27.553 por el siguien
 
 “ARTÍCULO 13.- Los sistemas aludidos en la presente ley deben contemplar el cumplimiento de todas las normativas vigentes que regulan toda la cadena de comercialización de medicamentos incluyendo los requisitos de trazabilidad de éstos y de la firma electrónica o digital. También debe contemplarse la emisión de constancia de teleasistencia, prescripción y dispensación para los pacientes, por vía informatizada o impresión de dicha constancia y la posibilidad de bloqueo por el farmacéutico cuando exista error manifiesto en la prescripción, para que el prescriptor pueda revisar, anular o reactivar según el caso.”
 
-Capítulo VII – Ejercicio de la medicina, odontología y actividades de colaboración (Ley N° 17.132)
+Capítulo VII -Ejercicio de la medicina, odontología y actividades de colaboración (Ley N° 17.132)
 
 ARTÍCULO 310.- Sustitúyese el inciso 7°) del artículo 19 de la Ley N° 17.132 por el siguiente:
 
@@ -2079,7 +2079,7 @@ ARTÍCULO 310.- Sustitúyese el inciso 7°) del artículo 19 de la Ley N° 17.13
 
 La prescripción podrá consignar únicamente con el nombre genérico del medicamento o denominación común internacional.”
 
-Capítulo VIII – Reglamentación del derecho de opción de cambio (Decreto N° 504/98)
+Capítulo VIII -Reglamentación del derecho de opción de cambio (Decreto N° 504/98)
 
 ARTÍCULO 311.- Sustitúyese el artículo 13 del Decreto Nº 504 del 12 de mayo de 1998 y sus modificatorios, por el siguiente:
 
@@ -2089,7 +2089,7 @@ ARTÍCULO 312.- Sustitúyese el artículo 14 del Decreto Nº 504 del 12 de mayo 
 
 “ARTÍCULO 14.- Los afiliados que hubieren cambiado de agente de seguro deberán permanecer en ella el tiempo mínimo que determine la Autoridad de Aplicación, el que nunca podrá ser superior a UN (1) año, y vencido ese plazo, podrán volver a ejercer esa opción.”
 
-Capítulo IX – Régimen legal del ejercicio de la actividad farmacéutica y de la habilitación de las farmacias, droguerías y herboristerías (Ley N° 17.565)
+Capítulo IX -Régimen legal del ejercicio de la actividad farmacéutica y de la habilitación de las farmacias, droguerías y herboristerías (Ley N° 17.565)
 
 ARTÍCULO 313.- Sustitúyense el primer y el segundo párrafo del artículo 1° de la Ley N° 17.565 por el siguiente texto:
 
@@ -2171,7 +2171,7 @@ ARTÍCULO 325.- Sustitúyese el último párrafo del artículo 40 de la Ley N° 
 
 “Estos libros deberán ser electrónicos, sin alterar el orden de los asientos de las ventas efectuadas.”
 
-Título XII – COMUNICACIÓN
+Título XII -COMUNICACIÓN
 
 Capítulo I - Ley de Servicios de Comunicación Audiovisual (Ley N° 26.522)
 
@@ -2189,7 +2189,7 @@ En ningún caso la suma total de licencias otorgadas en la misma área primaria 
 
 ARTÍCULO 327.- Derógase el artículo 46 de la Ley Nº 26.522.
 
-Capítulo II – Argentina Digital (Ley N° 27.078)
+Capítulo II -Argentina Digital (Ley N° 27.078)
 
 ARTÍCULO 328.- Sustitúyese el inciso a) del artículo 6º de la Ley Nº 27.078, modificado por el Decreto Nº 267 del 29 de diciembre de 2015, por el siguiente:
 
@@ -2205,7 +2205,7 @@ ARTÍCULO 330.- Sustitúyese el artículo 34 de la Ley Nº 27.078, modificado po
 
 “ARTÍCULO 34.- Registro. La provisión de facilidades de los sistemas satelitales de comunicaciones será libre. Se requerirá a los titulares de tales sistemas el correspondiente registro para su operación, al solo efecto de coordinar el uso de las frecuencias radioeléctricas y evitar interferencias sobre otros sistemas conforme a la reglamentación que dicte la Autoridad de Aplicación. La prestación de cualquier Servicio de TIC por satélite estará sometida al régimen general de prestación de Servicios de TIC establecido en la presente ley.”
 
-Título XIII – LEY DE DEPORTES (Ley N° 20.655)
+Título XIII -LEY DE DEPORTES (Ley N° 20.655)
 
 ARTÍCULO 331.- Sustitúyese el segundo párrafo del artículo 16 de la Ley N° 20.655, por el siguiente:
 
@@ -2273,7 +2273,7 @@ ARTÍCULO 344.- Sustitúyese el artículo 44 de la Ley N° 20.655 por el siguien
 
 ARTÍCULO 345.- CLÁUSULA TRANSITORIA. Las asociaciones, federaciones y confederaciones deportivas dispondrán de un año, contado a partir de la reglamentación del presente, para modificar sus estatutos a efectos de adecuarse a los términos previstos por aquel, lo que deberá ser aplicado sin perjuicio del cumplimiento de los mandatos preexistentes.
 
-Título XIV – LEY GENERAL DE SOCIEDADES N° 19.550, T.O. 1984 Y SUS MODIFICATORIAS
+Título XIV -LEY GENERAL DE SOCIEDADES N° 19.550, T.O. 1984 Y SUS MODIFICATORIAS
 
 ARTÍCULO 346.- Sustitúyese el artículo 30 de la Ley General de Sociedades N° 19.550, T.O. 1984 y sus modificatorias, por el siguiente:
 
@@ -2283,7 +2283,7 @@ ARTÍCULO 347.- Sustitúyese el inciso 1) del artículo 77 de la Ley General de 
 
 “1) Cuando se tratare de sociedades comerciales, acuerdo unánime de los socios, salvo pacto en contrario a lo dispuesto para algunos tipos societarios. Cuando se tratare de asociación civil que se transformare en sociedad comercial o resolviera ser socia de sociedades anónimas, voto de los dos tercios de los asociados;”
 
-Título XV – TURISMO
+Título XV -TURISMO
 
 ARTÍCULO 348.- Derógase Ley N° 18.828.
 
@@ -2291,7 +2291,7 @@ ARTÍCULO 349.- Derógase Ley N° 18.829.
 
 ARTÍCULO 350.- Derógase Ley N° 26.356.
 
-Título XVI – REGISTRO AUTOMOTOR (Decreto - Ley N° 6582/58 ratificado por la Ley N° 14.467 (t.o. 1997) y sus modificatorias)
+Título XVI - REGISTRO AUTOMOTOR (Decreto - Ley N° 6582/58 ratificado por la Ley N° 14.467 (t.o. 1997) y sus modificatorias)
 
 ARTÍCULO 351.- Deróganse los artículos 11, 12 y 21 del Decreto-Ley Nº 6582/58 ratificado por la Ley N° 14.467 (t.o. 1997) y sus modificatorias.
 
