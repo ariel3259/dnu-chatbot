@@ -27,11 +27,12 @@ def split_documents():
             article = text
             chunk = title + article
             chunks.append(chunk)
-        else:
+        if chapter_pattern.match(text) is not None:
                 chapter_match = chapter_pattern.match(text)
-                chatpter = chapter_match.string
-                chunk += chatpter
-                chunk += " " + text.replace(title, "").replace(chapter, "")
+                chapter = chapter_match.string
+        else:
+            chunk = f"{title} - {chapter} {text}"
+            
         print(chunk)
       
       
