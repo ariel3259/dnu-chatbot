@@ -3,7 +3,7 @@ import re
 import os 
 title_pattern = re.compile(r'título [ivxlcdm]+')
 chapter_pattern = re.compile(r'capítulo [ivxlcdm]+')
-
+article_pattern = re.compile(r'art. [0-9]{1,} -')
 
 def split_documents():
 
@@ -15,26 +15,42 @@ def split_documents():
     title = ""
     chapter = ""
     article = ""
-    chunks = []
+    chunks: list[str] = []
+    chunk = ""
     for paragraph in paragraphs:
         text = paragraph.text.lower()
-        chunk = ""
-        if title_pattern.match(text) is not None:
-            title_match = title_pattern.match(text)
-            title = title_match.string
-            
-        if chapter_pattern.match(text) is None:
-            article = text
-            chunk = title + article
-            chunks.append(chunk)
-        if chapter_pattern.match(text) is not None:
-                chapter_match = chapter_pattern.match(text)
+        title_match = title_pattern.match(text)
+        chapter_match = chapter_pattern.match(text)
+        article_match = article_pattern.match(text)
+    
+        if title_match is None and chapter_match is None and article_match is None and chunk != "":
+            try:
+                chunk_index = chunks.index(chunk)
+                chunk += text
+                chunks[chunk_index] = chunk
+            except Exception:
+                pass
+        if title_match is not None or chapter_match is not None:
+            chunks.append(article)
+            article = ""
+            if title_match is not None:
+                title = title_match.string
+                chapter = ""
+            if chapter_match is not None:
                 chapter = chapter_match.string
-        else:
+        if title != "" and chapter != "" and article_match is not None:
             chunk = f"{title} - {chapter} {text}"
+            chunks.append(chunk)
+        if chapter == "" and title != "" and article_match is not None:
+            if article == "":
+                article = f" {title} - {text}"
+            elif article != "":
+                article += f" {text}"
             
-        print(chunk)
-      
+            
+        
+            
+    print(chunks[3])
       
 
         
