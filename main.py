@@ -1,5 +1,4 @@
-from embedding.split_texts import split_text
-from embedding.make_embedding import make_embedding
+from embedding.split_document import split_documents
 from embedding.load_embeddings import load_embeddings
 from db.chroma_client import collection
 from fastapi import FastAPI
@@ -9,11 +8,10 @@ from embedding.mixtral_8x7b import Mixtral8x7B
 import os
 
 load_dotenv(find_dotenv(), override=True)
-path = os.path.join(os.getcwd(), "embedding", "dnu_70_2023.txt")
-texts = split_text(path)
+path = os.path.join(os.getcwd(), "embedding", "dataset_errepar.docx")
+texts, metadatas = split_documents(path)
 if len(texts) != len(collection.get()["ids"]):
-    embeddings = make_embedding(texts)
-    load_embeddings(texts, embeddings)
+    load_embeddings(texts, metadatas)
 
 
 

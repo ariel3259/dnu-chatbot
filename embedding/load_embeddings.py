@@ -1,12 +1,11 @@
 from db.chroma_client import collection
-import random
+import uuid
 
-def load_embeddings(texts, embeddings):
-    documents = [x.page_content for x in texts]
-    ids = [f"{random.random()}" for x in texts]
+def load_embeddings(texts, metadatas):
+    ids = [str(uuid.uuid4()) for _ in texts]
     collection.add(
-            embeddings=embeddings,
-            documents=documents,
+            documents=texts,
+            metadatas=metadatas,
             ids=ids
     )
     print("Embedding loaded")

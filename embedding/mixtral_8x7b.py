@@ -1,5 +1,6 @@
 from db.chroma_client import collection
 import os
+import re
 import requests
 
 class Mixtral8x7B:
@@ -13,8 +14,8 @@ class Mixtral8x7B:
         
     def make_answer(self, question):
         query_result =collection.query(
-            query_texts=[question],
-            n_results = 5
+            query_texts=[question.lower()],
+            n_results = 10
         )
         payload = {
             "inputs": f"""{self.primer}
@@ -31,7 +32,8 @@ class Mixtral8x7B:
             json = payload
         )
         json = response.json()
-        answer = json[0]["generated_text"].split("\n")[3].split(": ")[1]
+        answer = re.compile("Respuesta: ").split(json[0]["generated_text"])[1]
+        print(answer)
         return { "answer": answer }
         
         
